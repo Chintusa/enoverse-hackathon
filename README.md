@@ -46,7 +46,7 @@ The **backend** is contained within the `backend/` directory and communicates wi
     - Configure the `application.properties` file located in `src/main/resources` with your PostgreSQL database credentials:
 
     ```properties
-    spring.datasource.url=jdbc:postgresql://localhost:5432/eonverse_db
+    spring.datasource.url=jdbc:mysql://localhost:5432/eonverse_db
     spring.datasource.username=your_username
     spring.datasource.password=your_password
     spring.jpa.hibernate.ddl-auto=update
