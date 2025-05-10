@@ -25,7 +25,7 @@ This project is a **sci-fi inspired website** that allows users to explore the *
 - **GSAP (GreenSock Animation Platform)**: JavaScript library for high-performance animations.
 - **Framer Motion**: React library for animations and transitions.
 - **Spring Boot**: Backend framework for creating the server-side logic, RESTful API, and managing database interactions.
-- **PostgreSQL**: Database used to store and manage messages and data.
+- **MYSQL**: Database used to store and manage messages and data.
 - **TailwindCSS**: Utility-first CSS framework for designing the website.
 
 ## Spring Boot Backend Details
