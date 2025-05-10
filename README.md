@@ -41,7 +41,7 @@ The **backend** is contained within the `backend/` directory and communicates wi
 
 ### Database Configuration
 
-1. **PostgreSQL Setup**:
+1. **MYSQL Setup**:
     - Install PostgreSQL and create a new database for the project.
     - Configure the `application.properties` file located in `src/main/resources` with your PostgreSQL database credentials:
 
